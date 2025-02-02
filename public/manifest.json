@@ -1,0 +1,16 @@
+{
+  "name": "Auction House",
+  "version": "1.0.0",
+  "manifest_version": 2,
+  "author": "Shiroko",
+  "homepage_url": "https://github.com/Shiroko7/Bubbles-for-Owlbear-Rodeo",
+  "icon": "/icon.svg",
+  "description": "Run auctions in your game sessions",
+  "action": {
+    "title": "Auction House",
+    "icon": "/auction.svg",
+    "popover": "/",
+    "height": 800,
+    "width": 600
+  }
+}
